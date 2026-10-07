@@ -13,6 +13,7 @@
     <style>
         :root {
             --bg: #ffffff;
+bg: #ffffff;
             --primary: #0a2540;
             --accent: #00d4ff;
             --muted: #7a7a7a;
